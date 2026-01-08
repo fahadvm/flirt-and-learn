@@ -1,0 +1,36 @@
+Flirt & Learn AI
+Project Description:
+
+Flirt & Learn AI is an interactive English learning chatbot that makes language practice fun, engaging, and personal. The AI acts as a conversational partner of the opposite gender, allowing users to practice English naturally through chatting while enjoying playful, flirty interactions.
+
+The AI not only responds intelligently but also corrects grammar, suggests better phrasing, and introduces new vocabulary. With topic-based conversations, users can improve their English in scenarios ranging from casual small talk to more structured dialogues, all while being motivated by the unique and personalized experience of chatting with an opposite-gender AI.
+
+Key Features:
+
+Opposite-Gender Persona: Makes conversations more engaging and immersive.
+
+Grammar & Vocabulary Assistance: Real-time corrections and suggestions.
+
+Natural Conversations: AI keeps chats flowing naturally.
+
+Topic-Based Practice: Covers hobbies, travel, work, and daily conversations.
+
+Conversation History: Track progress over time.
+
+Optional Voice Chat: Speak and listen for pronunciation practice.
+
+Target Audience:
+
+Students and professionals looking to improve English fluency.
+
+Anyone wanting a fun, interactive, and personalized AI companion.
+
+Technologies Used:
+
+AI Model: OpenAI GPT / Hugging Face Transformers
+
+Grammar Checking: language_tool_python
+
+Chat Interface: Python GUI (Tkinter / PyQt) or Web (Flask / Streamlit)
+
+Voice (Optional): TTS using pyttsx3 / Whisper
