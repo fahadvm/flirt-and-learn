@@ -23,10 +23,10 @@ export const LandingPage: React.FC = () => {
                         <span>AI-Powered Language Learning</span>
                     </div>
                     <h1 className="text-5xl md:text-6xl font-bold text-gray-900 leading-tight">
-                        Master English through <span className="text-pink-500">Conversation</span>
+                        Find Love, Master <span className="text-pink-500">English</span>
                     </h1>
                     <p className="text-xl text-gray-600 leading-relaxed">
-                        Practice English naturally by chatting with friendly AI personas. Get instant feedback, corrections, and build confidence in a safe environment.
+                        Fall in love with learning. Connect with a caring AI partner who listens to your heart and gently guides your English progress through warm, romantic conversations.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 pt-4">
                         <Link
